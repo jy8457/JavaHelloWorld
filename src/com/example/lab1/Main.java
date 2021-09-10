@@ -8,7 +8,8 @@ public class Main {
 		System.out.print("이름 입력 :");
 		String name=s.next();
 		System.out.println("["+name+"]님 환영합니다~");
-		System.out.println("It took me 2hour to finish")
+		System.out.println("It took me 2hour to finish");
+		System.out.println("Checking, testing");
 
 	}
 
